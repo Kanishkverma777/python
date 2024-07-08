@@ -1,2 +1,2 @@
 # python
-this is may repo for learning python language
+this is my repo for learning python language
