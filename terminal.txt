@@ -1,0 +1,15 @@
+CONFIG  
+
+name = git config --global user.name "name"
+email = git config --global user.email "e mail"
+list = git config --list
+
+COMMAND 
+
+clone = git clone <link>
+status = git status
+add = git add <file_name>
+add everything = git add .
+initialize = git init
+commit = git commit -m "some_message"
+push = git push origin main
